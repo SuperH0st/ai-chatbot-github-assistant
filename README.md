@@ -87,4 +87,4 @@ streamlit run app/main.py
 
 ## 📄 License
 
-MIT
+MIT License
